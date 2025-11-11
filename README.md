@@ -26,7 +26,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 ### **Procedure**
 
 1. Open **STM32CubeIDE**.
-<img width="592" height="332" alt="image" src="https://github.com/user-attachments/assets/43f4915a-4740-4ce6-a5ea-25a09d546811" />
+<img width="1919" height="1143" alt="Screenshot 2025-10-29 150211" src="https://github.com/user-attachments/assets/c07faa26-d3fe-48b7-b59e-9695ba6bd69b" />
 
 2. Click **File → New STM32 Project**.
  <img width="580" height="308" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
